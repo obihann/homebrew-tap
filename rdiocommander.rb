@@ -3,7 +3,7 @@ require 'formula'
 class Rdiocommander < Formula
   homepage 'http://obihann.github.io/RdioCommander/'
   url 'https://github.com/obihann/RdioCommander/archive/1.2.1.tar.gz'
-  sha1 'e059fc6d0395ea1b11a7f498a92ced5d750af562'
+  sha1 '5d8fbe19720b1e0b0737c99710a7a7c1d57131ba'
 
   depends_on :python
 
